@@ -14,7 +14,7 @@
 
 	<!-- 当前项目的信息 -->
 	<!-- 分组的ID，通常是公司的域名倒写 -->
-	<groupId>org.fkjava</groupId>
+	<groupId>org.jayjava</groupId>
 	<!-- 项目名称 -->
 	<artifactId>wexin</artifactId>
 	<!-- 项目版本号 -->
